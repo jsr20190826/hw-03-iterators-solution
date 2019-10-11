@@ -1,4 +1,4 @@
-# Homework #2: Functions & Iterators
+# Homework #3: Iterators
 
 To complete this assignment, do the following:
 
